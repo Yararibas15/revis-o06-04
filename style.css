@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding : 0;
+}
+
+    .cabecalho {
+        background-color: lavenderblush;
+    }
+
+    .navegacao {
+        background-color: hotpink;
+    }
+
+    .secao {
+        background-color: beige;
+    }
+    .rodape {
+        background-color: hotpink;
+    }
+
+    
+
